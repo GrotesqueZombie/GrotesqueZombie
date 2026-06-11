@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Frank, also known as Grotesque, Grotesque Games.
 <!--
 **GrotesqueZombie/GrotesqueZombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🤘🏼 Hi there 🤘🏼
 My name is Frank, also known as Grotesque, from Grotesque Games. This is my repository for games that I find fun, interesting, and worth sharing!
 
 Please feel free to reach out. I primarily hang out in the Blackoath Entertainment Discord. 
